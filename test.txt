@@ -1,1 +1,3 @@
 Hello this is a testing file.
+
+In this repo we will allow users to test their git knowledge.
